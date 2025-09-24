@@ -1,2 +1,2 @@
 ls
-echo "I am a bash script"
+echo "I am a tracked script"
